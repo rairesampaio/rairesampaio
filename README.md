@@ -1,16 +1,14 @@
 ### Hi there 👋
+### Sou estudante, em mudança de carreira e área de estudo. Atualmente estudando de Sistemas de informação, pela UNIFACS - Universidade Salvador e atuo como bolsista pesquisador. Estou utilizando esse Github como instrumento de aprendizado de tecnologias pertinentes à minha área, tanto quanto ao projeto em que me encontro inserido.
 
-<!--
-**rairesampaio/rairesampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Criei enorme paixão pela área de análise e ciência de dados, e estou "correndo atrás" do sonho.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Algumas informações sobre mim:
+
+- 🔭 Atualmente, trabalho com análise de dados e estou no quarto semestre.
+- 🌱 Atuo com: Python, SQL, PowerBI/QlikSense
+- 📚 Tenho interesse no aprendizado de tecnologias como: Docker, Git, Alteryx Designer, Tableau
+- 📫 Contate-me via email: rairesampaio@hotmail.com  
+- ⚡ Eu falo Inglês e Alemão
