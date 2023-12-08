@@ -13,4 +13,4 @@ Algumas informações sobre mim:
 - 📫 Contate-me via email: rairesampaio@hotmail.com  
 - ⚡ Eu falo Inglês e Alemão
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/rairesampaio/github-readme-stats)
